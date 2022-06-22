@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743137078864",
+    "project_id": "immence-authentication",
+    "storage_bucket": "immence-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743137078864:android:ff4be265e5b7ec803bab55",
+        "android_client_info": {
+          "package_name": "com.example.immence_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743137078864-itaedau1kfq2eqqcbdgurns3rmq7q8ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgT0Po2FY2bcXxWtziyTxRvk8m0P3gIT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743137078864-itaedau1kfq2eqqcbdgurns3rmq7q8ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
